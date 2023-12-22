@@ -2,9 +2,9 @@
 <table>
   <tr>
     <td valign="center">
-      🎓 I am currently in 5th year at Moroccan School of Engineering Sciences.
-      🌱 I am currently learning things like DevOps and cloud computing, nad improving my skills in other fields ...
-      ✨ I love to create different types of projects.
+      🎓 I am currently in 5th year at Moroccan School of Engineering Sciences.</br>
+      🌱 I am currently learning things like DevOps and cloud computing, nad improving my skills in other fields ... </br>
+      ✨ I love to create different types of projects.</br>
 <td >
     
   </tr>
